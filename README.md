@@ -33,3 +33,5 @@
  <p align="center">
     <img src="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela/blob/master/resultados_wscad19.png" />
   </p>
+  
+  <p>Informações detalhadas sobre os testes estão <a href="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela-Quicksort/tree/master/resultados">aqui</a></p>
