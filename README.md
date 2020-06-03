@@ -28,7 +28,7 @@
  
  # Resultados
  <p align=" justify">
-  Os <a href="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela-Quicksort/tree/master/resultados">experimentos</a> foram executados em uma máquina com 32 processadores Intel Core i7. O sistema operacional é o Linux Kernel 4.4.0. O desempenho dos algoritmos foi comparado em um cenário sem falhas e com falhas para 4, 8, 16 e 32 processos MPI. Resultados de desempenho mostram a eficiência dos algoritmos para ordenar 1073741824 números inteiros em cenários com falhas e sem falhas. O Hyperquicksort obteve o melhor desempenho, a diferença de desempenho entre o Quickmerge Modificado e o Hyperquicksort é pequena. O Quickmerge Modificado obteve o melhor balanceamento. Nos experimentos com falhas os algoritmos se assemelham em tempo de execução conforme aumenta o número de falhas. 
+  Os <a href="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela-Quicksort/tree/master/resultados">experimentos</a> foram executados em uma máquina com 32 processadores Intel Core i7. O sistema operacional é o Linux Kernel 4.4.0. O desempenho dos algoritmos foi comparado em um cenário sem falhas e com falhas para 4, 8, 16 e 32 processos MPI. Resultados de desempenho mostram a eficiência dos algoritmos para ordenar 1073741824 números inteiros em cenários com falhas e sem falhas. O Hyperquicksort obteve o melhor <b>desempenho</b>, a diferença de desempenho entre o Quickmerge Modificado e o Hyperquicksort é pequena. O Quickmerge Modificado obteve o melhor <b>balanceamento</b>. Nos experimentos com falhas os algoritmos se assemelham em tempo de execução conforme aumenta o número de falhas. 
  </p>
  <p align="center">
     <img src="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela/blob/master/resultados_wscad19.png" />
