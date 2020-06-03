@@ -1,6 +1,6 @@
 
 # Resumo
-<p align=" justify">Devido ao grande volume de dados, a <a href="https://www.amazon.com.br/Introduction-Parallel-Programming-Peter-Pacheco/dp/0123742609">programação paralela</a> possa ser uma solução. Esse trabalho desenvolveu e implementou versões paralelas e tolerante a falhas do algoritmo de ordenação sequencial <a href="https://pt.wikipedia.org/wiki/Quicksort"> Quicksort</a>.
+<p align=" justify">Devido ao grande volume de dados, a <a href="https://www.amazon.com.br/Introduction-Parallel-Programming-Peter-Pacheco/dp/0123742609">programação paralela</a> pode ser uma solução. Esse trabalho desenvolveu e implementou versões paralelas e tolerante a falhas do algoritmo de ordenação sequencial <a href="https://pt.wikipedia.org/wiki/Quicksort"> Quicksort</a>.
 </p>
 
 
