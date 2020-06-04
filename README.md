@@ -21,7 +21,7 @@
   
 # Modelos e definições
   <p align=" justify">
-  As trẽs versões paralelas utilizam o conceito de <b>Hipercubo</b> descrito no livro de <a  href="https://www.amazon.com/Introduction-Parallel-Processing-Algorithms-Architectures/dp/B01FKU1TLI"> Parhami</a>
+  As três versões paralelas utilizam o conceito de <b>Hipercubo</b> descrito no livro de <a  href="https://www.amazon.com/Introduction-Parallel-Processing-Algorithms-Architectures/dp/B01FKU1TLI"> Parhami</a>
  . Cada processo é modelado como um vértice do hipercubo. A comunicação ponto-a-ponto e a comunicação coletiva entre os processos é realizado com as funções definidas pela biblioteca <a href="https://mpitutorial.com/tutorials/mpi-introduction/">MPI</a>. As funções padronizadas pela biblioteca <a href="https://fault-tolerance.org/2017/11/03/ulfm-2-0/">ULFM 2.0 </a> são utilizadas na estratégia para tratar as n-1 falhas possíveis para um hipercubo de n vértices. As trẽs versões paralelas desenvolvidas são o <a href="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela/tree/master/hyperquicksort">Hiperquicksort</a>, <a href="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela/tree/master/quickmerge">Quickmerge</a> e <a href="https://github.com/FelipeCamargoXavier/Ordenacao-Paralela/tree/master/modified-quickmerge">Quickmerge modificado</a>.
  </p>
  <p align=" justify">Informações detalhadas podem ser encontradas no <a href="https://drive.google.com/file/d/1NqbbcJ5fusm7YkZqw87N-kp64OgEVfee/view?usp=sharing">artigo</a> publicado na <a href="http://wscad.facom.ufms.br/">WSCAD 2019.</a></p>
